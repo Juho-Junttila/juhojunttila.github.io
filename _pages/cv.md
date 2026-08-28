@@ -90,7 +90,7 @@ redirect_from:
 </style>
 
 <div class="cv-container">
-  <div class="cv-sub">Last updated 14.4.2026</div>
+  <div class="cv-sub">Last updated 28.8.2026</div>
   <h1 class="cv-heading">Curriculum Vitae</h1>
   <div class="cv-buttons">
     <a href="/files/CV.pdf" download class="cv-btn-primary">
